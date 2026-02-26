@@ -3,8 +3,6 @@
 
 Projede amaç, Isparta il merkezinde belirlenen afet ve acil durum toplanma alanları arasında bir acil durum nakliye dronu için en uygun (toplam mesafesi en kısa) rotayı bulmaktır.
 
-Bu repoda hem uygulama (Streamlit) sürümü hem de sunum/savunma için hazırlanan notebook sürümü birlikte yer almaktadır.
-
 ---
 
 ## 1. Problem Tanımı 
